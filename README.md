@@ -21,7 +21,7 @@ The candidate will be writing Selenium tests against https://www.wikipedia.org/
 ## Verify Featured Languages
 The candidate will write tests to verify the **Featured Languages**, such as English, Español, etc.  These can be seen in this image.
 
-![Wikipedia Image](images/wikipedia-languages.png)
+![Wikipedia Image](wikipedia-languages.png)
 
 If the languages seen are different, that is ok.  Use the languages you see.
 It is not required that all tests pass, maybe you will find a bug somewhere.  If a test isn't passing, add a comment explaining why.
